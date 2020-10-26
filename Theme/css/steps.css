@@ -1,0 +1,32 @@
+.steps {
+  padding-top: 1.9791666667rem;
+  text-align: center; }
+  .steps .row {
+    margin-top: -1.9791666667rem; }
+
+.step {
+  display: inline-block;
+  padding: 0 !important; }
+  .step-num {
+    color: #b5b5b5;
+    display: inline-block;
+    font-size: 2.5rem;
+    width: 3.3333333333rem;
+    line-height: 2.5rem;
+    font-weight: bold;
+    padding: 0.4166666667rem;
+    background-color: #ececec;
+    border-radius: 50%; }
+  .step-text {
+    font-size: 0.8rem; }
+  .step.active .step-num {
+    background-color: #5385c2;
+    color: white; }
+  .step-progress {
+    background-color: #ececec;
+    padding: 0; }
+  .step-bar {
+    background-color: #5385c2;
+    height: 0.625rem; }
+
+/*# sourceMappingURL=steps.css.map */
