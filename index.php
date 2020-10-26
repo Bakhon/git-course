@@ -1,4 +1,6 @@
-<?php require_once 'Theme/blocks/header.php' ?>
+<?php
+echo 123;
+require_once 'Theme/blocks/header.php' ?>
 
 <div class="home">
 
@@ -380,8 +382,6 @@
 
 
 </div>
-
-
 
     <!-- Support button -->
     <a class="btn btn-primary position-fixed d-none d-lg-inline-block" href="#" style="bottom: 0; right: 0; z-index: 1040;"><svg class="mr-2 i is-question-circle"><use xlink:href="#s-question-circle"></use></svg>Служба поддержки</a>
