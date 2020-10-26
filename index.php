@@ -1,6 +1,4 @@
-<?php
-echo 123;
-require_once 'Theme/blocks/header.php' ?>
+<?php require_once 'Theme/blocks/header.php' ?>
 
 <div class="home">
 
