@@ -1,4 +1,6 @@
-<?php require_once 'Theme/blocks/header.php' ?>
+<?php 
+echo 'Bahon';
+require_once 'Theme/blocks/header.php' ?>
 
 <div class="home">
 
